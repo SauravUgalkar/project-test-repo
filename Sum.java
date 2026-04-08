@@ -1,5 +1,5 @@
 public class Sum{
-    public int a = 10;
-    public int b = 20;
+    public int a = 20;
+    public int b = 30;
     public int c = a+b;
 }
